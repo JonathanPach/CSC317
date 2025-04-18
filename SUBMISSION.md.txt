@@ -1,0 +1,15 @@
+I would say I learned a great deal from this exercise. I believe that it was a rather
+enlightening experience to refresh and relearn HTML and CSS skills after years of not practicing it. 
+I kind of completely forgot how some things work, so this assignment was helpful. When it comes 
+to doing CSS by hand, without the assistance of AI, it was rather difficult for someone who hasn’t touched 
+CSS in years, thus trying to figure out how everything worked and hope to make this look semi-decent was challenging. 
+I knew that I could quill ideas in reality but just lacked the knowledge and skill to do so. 
+Crawling through various tutorials and StackOverflow pages to try to find the code to make the idea I want was frustrating. 
+Overall, rather challenging to create exactly what you wanted without spending an exorbitant amount of time researching how to do so. 
+With the use of AI, it’s like magic, being able to create nearly exactly what you want within a few seconds, 
+compiling all the information taken from the internet and giving you exactly the answer you want. 
+While AI may be useful, it doesn’t give ‘exactly’ what I want, 
+so this is where a hybrid solution is useful, using AI as a skeleton and using your own knowledge, skills, and creativity to fill the gaps.
+I believe using both is probably the most efficient way at going about things for someone with limited knowledge of CSS and HTML. 
+You do not even need to use AI for the entire CSS code, but to fill the gaps in knowledge and to provide an answer that research cannot provide in a timely manner. 
+Using both is simply the fastest way at going about things while also providing the result exactly as you want. 
