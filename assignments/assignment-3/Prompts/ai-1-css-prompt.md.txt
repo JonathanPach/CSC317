@@ -1,3 +1,0 @@
-CSS for this HTML code for a professional portfolio. Have it clean and crisp, technozen aesthetic. 
-The Header should have a background image that transitions to another after some time. 
-The navigation buttons bounce up when hover over them. 
