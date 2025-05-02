@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    //background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8_ulC9-z5_A30PMp-qNjVc9Y6EDw-DzFk-EWKSAOgLeC5pGtmz4yGGFkcLEJN0FSe6JbGXZX9z7UG0GpR-MtjB97vtigkQdJRdH8n2yLANk7UyEzshS-YpmGvs2FDv4MuFy2mIkuUcdN/s1600/body_background.jpg);
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8_ulC9-z5_A30PMp-qNjVc9Y6EDw-DzFk-EWKSAOgLeC5pGtmz4yGGFkcLEJN0FSe6JbGXZX9z7UG0GpR-MtjB97vtigkQdJRdH8n2yLANk7UyEzshS-YpmGvs2FDv4MuFy2mIkuUcdN/s1600/body_background.jpg);
+    margin: 0 auto;
+    padding: 0px 0px;
+    max-width: 1200px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Center navigation links */
+nav {
+    text-align: center;
+}
+
+    nav a {
+        display: inline-block;
+        margin: 0 10px;
+        font-weight: bold;
+    }
+
+/* Center images */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Center table */
+table {
+    margin: 0 auto;
+}
+
+/* Center the contact form */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+    .contact-form input,
+    .contact-form textarea,
+    .contact-form button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
